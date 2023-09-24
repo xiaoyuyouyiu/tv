@@ -6,15 +6,185 @@
 
 {
 
-"warningText":"小盒酷玩提醒：江湖路漫漫-有缘再会！",    
+"warningText":"豆瓣主页",    
 
 
 "sites":[
 
-{"key": "豆瓣","name": "江湖路漫漫-有缘再会","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
+{"key": "豆瓣","name": "豆瓣主页","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
-{"key": "douban","name": "Q群：817925554","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"}
+{"key": "七七影视","name": "酷云七七","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/酷云77.js"}
 
+{"key": "快看","name": "快看影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/快看.js"}
+
+{"玩偶本地"," type ":3," api ":" csp _ XBPQ "," playerType ":"1"," ext ":"/ json/玩偶哥哥.json "},
+
+{"萌猫影视"," type ":3," api ":" csp _ XBPQ "," playerType ":"1"," ext ":"/ json /萌猫.json "},
+
+{
+            "key": "csp_FanYY",
+            "name": "玩偶云盘",
+            "type": 3,
+            "api": "csp_WoGG",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/cainisi/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"
+        },
+        {
+			"key": "csp_77",
+			"name": "酷云直连",
+			"type": 3,
+			"api": "csp_Kunyu77",
+			"searchable": 1,
+			"quickSearch": 1,
+			"changeable": 1
+    	},
+
+   {"key": "低端影视","name": "低端影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/ddys.js"} 
+
+   {"key": "荐片","name": "荐片影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/荐片.js"}
+
+   {"key": "两个BT","name": "BT影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/两个BT.js"}
+
+   {"key": "厂长资源","name": "厂长影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/厂长资源.js"}
+
+        {
+            "key": "Kuaikan",
+            "name": "快看2影视",
+            "type": 3,
+            "api": "csp_Kuaikan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "YQK_spider",
+            "name": "一起看影视",
+            "api": "csp_YQKAPP",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://api-aws.11ty.top"
+        },
+        {
+            "key": "探探",
+            "name": "影探App",
+            "type": 3,
+            "playerType": "1",
+            "api": "csp_YTVIP",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "vip.lyyytv.cn"
+        },
+        {
+			"key": "csp_Czsapp",
+			"name": "厂长直连2",
+			"type": 3,
+			"api": "csp_Czsapp",
+			"playerType": 2,
+			"searchable": 1,
+			"quickSearch": 1,
+			"ext": "https://cz01.cc/",
+			"filterable": 1
+	    	},
+
+        {
+            "key":"Czsapp",
+            "name":"厂长直连",
+            "type":3,
+            "api":"csp_Czsapp",
+            "playerType":2,
+            "searchable":1,
+            "quickSearch":1,
+            "changeable":1
+        },
+        {
+            "key": "探探",
+            "name": "探探影视",
+            "type": 3,
+            "api": "csp_YT",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "6v电影",
+            "name": "6v电影",
+            "type": 3,
+            "api": "csp_SixV",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "http://www.xb6v.com/"
+        },
+
+        {
+            "key": "明明",
+            "name": "明明影视",
+            "type": 3,
+            "api": "csp_AppMr",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+{"key": "LIBVIO","name": "LIBVIO影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/LIBVIO.js"}
+
+{"乐猪影视"," type ":3," api ":" csp _ XBPQ "," playerType ":"1"," ext ":"/ json/乐猪TV.json "},
+
+{"key": "Auete影视","name": "Auete影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/Auete.js"}
+        
+{
+           "key":"zyys",
+           "name":"夜猫自营",
+           "type":1,
+           "api":"https://ys.md214.cn/api.php/provide/vod/",
+           "searchable":1,
+           "quickSearch":1,
+           "filterable":1,
+           "playUrl": "json:http://27.124.4.42:4567/jhjson/ceshi.php?url=",
+           "categories":["电影","连续剧","动漫","综艺"]
+        },
+
+{"key": "农民影视","name": "农民影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/农民影视.js"}
+
+{"key": "新视觉影视","name": "新视觉影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/新视觉影视.js"}
+
+{"key": "双十影视","name": "双十影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/双十影视.js"}
+
+{"key": "在线之家","name": "在线影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/zxzjhd.js"}
+
+{"key": "555影视","name": "555影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/555影视.js"}
+
+{"key": "007影视","name": "007影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/007影视.js"}
+
+{"key": "139影视","name": "139影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/139影视.js"}
+
+{"key": "348电影网","name": "348电影网","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/348电影网.js"}
+
+{"key": "4K电影网","name": "4K影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/4K电影网.js"}
+
+{"key": "539影视","name": "539影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/539影视.js"}
+
+{"key": "7喜影院","name": "7喜影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/7喜影院.js"}
+
+{"key": "8号影院","name": "8号影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/8号影院.js"}
+
+{"key": "B站影视","name": "B站影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/B站影视.js"}
+
+{"key": "HG影视","name": "lcio影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/lcio影视.js"}
+
+{"key": "ok影视","name": "OK影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/KOK影视.js"}
+
+{"key": "UM影视","name": "UM影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/UM电影.js"}
 
 ],
 
