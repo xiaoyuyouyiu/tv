@@ -47,8 +47,10 @@
 
 
 {"key": "厂长影视","name": "厂长影视","type": 3,"api": "./lib/drpy2.min.js","ext" : "./js/厂长资源.js"},
+{" key ":"萌猫"," name ":"萌猫|影视"," type ":3," api ":" csp _ XBPQ "," playerType ":"1"," ext ":"./ json ／萌猫． json "},
 
-{"key": "演唱会","name": "演唱会","type": 3,"api": "csp_XBPQ","ext" : "./json/哔哩哔哩音乐.json"},
+
+
 
 
   {
