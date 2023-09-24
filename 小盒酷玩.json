@@ -57,7 +57,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "changeable": 0,
-            "ext": "./lib/酷奇MV.json"
+            "ext": "./json/酷奇MV.json"
         },
         {
             "key": "演唱会",
@@ -68,7 +68,7 @@
             "quickSearch": 0,
             "filterable": 1,
             "changeable": 0,
-            "ext": "./lib/哔哩哔哩音乐.json"
+            "ext": "./json/哔哩哔哩音乐.json"
         }
 
 
