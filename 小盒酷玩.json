@@ -47,34 +47,12 @@
 
 {"key": "厂长影视","name": "厂长影视","type": 3,"api": "./lib/drpy2.min.js","ext" : "./js/厂长资源.js"},
 
+{"key":"萌猫","name":"萌猫|影视","type":"3","api":"csp_XBPQ","playerType":"1","ext":"./json/萌猫.json"},
+
+{"key":"酷奇","name":"萌猫|影视","type":"3","api":"csp_XBPQ","playerType":"1","ext":"./json/酷奇MV.json"},
 
 
-
-
-  {
-            "key": "酷奇MV",
-            "name": "酷奇MV",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "https://jihulab.com/box4220338/kw/-/raw/main/json/酷奇MV.json"
-        },
-        {
-            "key": "演唱会",
-            "name": "哔哩音乐",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "https://jihulab.com/box4220338/kw/-/raw/main/json/哔哩哔哩音乐.json"
-        }
-
-
+  
 
 
 
