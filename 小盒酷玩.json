@@ -15,11 +15,6 @@
 
 {"key": "七七影视","name": "酷云七七","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/酷云77.js"}
 
-{"key": "快看","name": "快看影视","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/快看.js"}
-
-{"玩偶本地"," type ":3," api ":" csp _ XBPQ "," playerType ":"1"," ext ":"/ json/玩偶哥哥.json "},
-
-{"萌猫影视"," type ":3," api ":" csp _ XBPQ "," playerType ":"1"," ext ":"/ json /萌猫.json "},
 
 
 
