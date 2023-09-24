@@ -22,7 +22,7 @@
         },
 
 
-{"key": "七七影视","name": "酷云七七","type": 3,"api": "./lib/drpy2.min.js","ext" : "./js/酷云77.js"},
+{"key": "七七影视","name": "酷云七七","type": 3,"api": "https://jihulab.com/box4220338/kw/-/raw/main/lib/drpy2.min.js","ext" : "https://jihulab.com/box4220338/kw/-/raw/main/js/酷云77.js"},
 
 {
             "key": "csp_FanYY",
