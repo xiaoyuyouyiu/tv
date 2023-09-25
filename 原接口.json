@@ -5,8 +5,8 @@
     "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
     "sites": [
         {
-            "key": "360影视",
-            "name": "360┃官源",
+            "key": "乐猪",
+            "name": "乐猪TV",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
