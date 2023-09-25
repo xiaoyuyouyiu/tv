@@ -65,30 +65,6 @@
 
 {"key":"玩偶哥哥","name":"玩偶本地","type":"3","api":"csp_XBPQ","playerType":"1","ext":"./json/玩偶哥哥.json"},
 
-  {
-            "key": "酷奇MV",
-            "name": "酷奇MV",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "./lib/酷奇MV.json"
-        },
-        {
-            "key": "演唱会",
-            "name": "哔哩音乐",
-            "type": 3,
-            "api": "csp_Bili",
-            "searchable": 0,
-            "quickSearch": 0,
-            "filterable": 1,
-            "changeable": 0,
-            "ext": "./lib/哔哩哔哩音乐.json"
-        },
-
-
 {"key": "低端影视","name": "低端影视","type": 3,"api": "./lib/drpy2.min.js","ext" : "./js/ddys.js"},
 
 {"key": "荐片影视","name": "荐片影视","type": 3,"api": "./lib/drpy2.min.js","ext" : "./js/荐片.js"},
