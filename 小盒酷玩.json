@@ -36,17 +36,6 @@
             "ext": "http://127.0.0.1:9978/file/cainisi/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/" },
 
         {
-            "key": "探探",
-            "name": "影探App",
-            "type": 3,
-            "playerType": "1",
-            "api": "csp_YTVIP",
-            "searchable": 1,
-            "quickSearch": 1,
-            "changeable": 1,
-            "ext": "vip.lyyytv.cn"
-        },
-        {
             "key":"Czsapp",
             "name":"厂长直连",
             "type":3,
@@ -66,6 +55,18 @@
             "filterable": 1,
             "changeable": 1
         },
+        {
+			"key": "csp_Czsapp",
+			"name": "厂长直连2",
+			"type": 3,
+			"api": "csp_Czsapp",
+			"playerType": 2,
+			"searchable": 1,
+			"quickSearch": 1,
+			"ext": "https://cz01.cc/",
+			"filterable": 1
+		},
+
 
 
 
