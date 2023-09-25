@@ -6,7 +6,9 @@
 
 {
 
-"warningText":"豆瓣主页",    
+     "spider": "./jar/fty0912.jar;md5;f20b74480c058b1ff6236601f92d65a8",
+     "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+ 
 
 
 "sites":[
