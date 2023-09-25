@@ -1,7 +1,7 @@
 {
     "菜妮丝": "https://cainisi.cf",
     "友情提醒": "接口完全免费，切勿付费购买。",
-    "spider": "https://tvbox.cainisi.cf/jar/fty0912.jar;md5;f20b74480c058b1ff6236601f92d65a8",
+    "spider": "https://jihulab.com/box4220338/kw/-/raw/main/jar/fty0912.jar;md5;f20b74480c058b1ff6236601f92d65a8",
     "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
     "sites": [
 
@@ -101,17 +101,6 @@
             "changeable": 1
         },
 
-        {
-            "key": "6v电影",
-            "name": "🧲6v电影",
-            "type": 3,
-            "api": "csp_SixV",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "http://www.xb6v.com/"
-        },
         {
             "key": "厂长资源",
             "name": "厂长影视",
