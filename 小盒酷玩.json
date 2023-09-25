@@ -163,7 +163,7 @@
 
 {"key": "DJ音乐","name": "DJ音乐","type": 3,"api": "./lib/drpy2.min.js","ext" : "./js/DJ音乐.js"},
 
-{"key": "Jango音乐","name": "Jango音乐","type": 3,"api": "./lib/drpy2.min.js","ext" : "./js/JangoIndex.js"},
+{"key": "Jango音乐","name": "Jango音乐","type": 3,"api": "./lib/drpy2.min.js","ext" : "./js/JangoIndex.js"}
 
 ],
 
