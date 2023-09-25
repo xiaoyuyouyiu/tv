@@ -245,9 +245,6 @@
             "changeable": 1,
             "ext": "https://jihulab.com/box4220338/kw/-/raw/main/js/荐片.js"
         },
-        
-        
-        
         {
             "key": "csp_DuoX",
             "name": "多线影视",
@@ -690,7 +687,17 @@
             "changeable": 1,
             "ext": "https://jihulab.com/box4220338/kw/-/raw/main/js/去看吧.js"
         },
-        
+        {
+            "key": "子子",
+            "name": "子子影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://jihulab.com/box4220338/kw/-/raw/main/json/子子.json"
+        },
         {
             "key": "野荷塘",
             "name": "荷塘影视",
