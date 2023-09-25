@@ -34,7 +34,39 @@
             "filterable": 1,
             "changeable": 0,
             "ext": "http://127.0.0.1:9978/file/cainisi/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/" },
-       
+
+        {
+            "key": "探探",
+            "name": "影探App",
+            "type": 3,
+            "playerType": "1",
+            "api": "csp_YTVIP",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "vip.lyyytv.cn"
+        },
+        {
+            "key":"Czsapp",
+            "name":"厂长直连",
+            "type":3,
+            "api":"csp_Czsapp",
+            "playerType":2,
+            "searchable":1,
+            "quickSearch":1,
+            "changeable":1
+        },
+        {
+            "key": "探探",
+            "name": "探探影视",
+            "type": 3,
+            "api": "csp_YT",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+
 
 
 {"key": "厂长影视","name": "厂长影视","type": 3,"api": "./lib/drpy2.min.js","ext" : "./js/厂长资源.js"},
@@ -151,19 +183,17 @@
 
 {"key":"零度影视","name":"零度影视","type":"3","api":"csp_XBPQ","playerType":"1","ext":"./json/零度影视.json"},
 
-{"key":"相声小品","name":"相声小品","type":"3","api":"csp_XBPQ","playerType":"1","ext":"./json/哔哩相声.json"},
+{"key":"相声小品","name":"相声小品","type":"3","api":"csp_Bili","playerType":"1","ext":"./json/哔哩相声.json"},
 
-{"key":"戏曲","name":"戏曲合集","type":"3","api":"csp_XBPQ","playerType":"1","ext":"./json/哔哩哔哩戏曲.json"},
+{"key":"戏曲","name":"戏曲合集","type":"3","api":"csp_Bili","playerType":"1","ext":"./json/哔哩哔哩戏曲.json"},
 
 {"key":"演唱会","name":"哔哩音乐","type":"3","api":"csp_Bili","playerType":"1","ext":"./json/哔哩哔哩音乐.json"},
 
-{"key":"biliych","name":"演唱会","type":"3","api":"csp_XBPQ","playerType":"1","ext":"./json/biliych.json"},
+{"key":"biliych","name":"演唱会","type":"3","api":"csp_Bili","playerType":"1","ext":"./json/biliych.json"},
 
 {"key": "种子音乐","name": "音乐合集","type": 3,"api": "./lib/drpy2.min.js","ext" : "./js/种子音乐.js"},
 
-{"key": "DJ音乐","name": "DJ音乐","type": 3,"api": "./lib/drpy2.min.js","ext" : "./js/DJ音乐.js"},
-
-{"key": "Jango音乐","name": "Jango音乐","type": 3,"api": "./lib/drpy2.min.js","ext" : "./js/JangoIndex.js"}
+{"key": "DJ音乐","name": "DJ音乐","type": 3,"api": "./lib/drpy2.min.js","ext" : "./js/DJ音乐.js"}
 
 ],
 
