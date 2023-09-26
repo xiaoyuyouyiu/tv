@@ -10,16 +10,7 @@
 
 
 "sites":[
-
-   {
-            "key": "豆豆",
-			"name": "豆瓣主页",
-			"type": 3,
-			"jar": "./jar/xyq.jar",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 1
-        },
+{"key": "豆瓣","name": "豆瓣","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
 
 {"key": "七七影视","name": "酷云七七","type": 3,"api": "https://jihulab.com/box4220338/kw/-/raw/main/lib/drpy2.min.js","ext" : "https://jihulab.com/box4220338/kw/-/raw/main/js/酷云77.js"},
