@@ -164,13 +164,13 @@
 
 {"key":"零度影视","name":"零度影视","type":"3","api":"csp_XBPQ","playerType":"1","ext":"./json/零度影视.json"},
 
-{"key":"相声小品","name":"相声小品","type":"3","api":"csp_Bili","playerType":"1","ext":"./json/哔哩相声.json","jar": "./jar/xyz.jar"},
+{"key":"相声小品","name":"相声小品","type":"3","api":"csp_Bili","playerType":"1","ext":"./json/哔哩相声.json"},
 
 {"key":"戏曲","name":"戏曲合集","type":"3","api":"csp_Bili","playerType":"1","ext":"./json/哔哩哔哩戏曲.json","jar": "./jar/xyq.jar"},
 
 {"key":"演唱会","name":"哔哩音乐","type":"3","api":"csp_Bili","playerType":"1","ext":"./json/哔哩哔哩音乐.json","jar": "./jar/xyq.jar"},
 
-{"key":"biliych","name":"演唱会","type":"3","api":"csp_Bili","playerType":"1","ext":"./json/biliych.json","jar": "./jar/xyz.jar"},
+{"key":"biliych","name":"演唱会","type":"3","api":"csp_Bili","playerType":"1","ext":"./json/biliych.json"},
 
 {"key": "种子音乐","name": "音乐合集","type": 3,"api": "./lib/drpy2.min.js","ext" : "./js/种子音乐.js"},
 
