@@ -1,8 +1,6 @@
 //全部数据来自网络和各大佬资源整合
 //软件接口完全免费，仅供学习交流，切勿付费购买，请于下载后24小时内删除
-//QQ频道：小盒酷玩    
-//公众号：小盒酷玩
-//QQ交流群：817925554
+
 
 {
 
@@ -10,7 +8,7 @@
 
 
 "sites":[
-{"key": "豆瓣","name": "豆瓣","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
+{"key": "豆瓣主页","name": "豆瓣","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
 
 
 {"key": "七七影视","name": "酷云七七","type": 3,"api": "https://jihulab.com/box4220338/kw/-/raw/main/lib/drpy2.min.js","ext" : "https://jihulab.com/box4220338/kw/-/raw/main/js/酷云77.js"},
@@ -38,19 +36,58 @@
         },
         
         {
-			"key": "csp_Czsapp",
-			"name": "厂长直连2",
-			"type": 3,
-			"api": "csp_Czsapp",
-			"playerType": 2,
-			"searchable": 1,
-			"quickSearch": 1,
-			"ext": "https://cz01.cc/",
-			"filterable": 1
-		},
-
-
-
+		       	"key": "csp_Czsapp",
+		      	"name": "厂长直连2",
+		      	"type": 3,
+		      	"api": "csp_Czsapp",
+		      	"playerType": 2,
+		      	"searchable": 1,
+		      	"quickSearch": 1,
+		      	"ext": "https://cz01.cc/",
+		      	"filterable": 1	
+       },
+       {
+            "key": "探探",
+            "name": "影探App",
+            "type": 3,
+            "playerType": "1",
+            "api": "csp_YTVIP",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "ext": "vip.lyyytv.cn"
+        },
+        {
+            "key": "Kuaikan",
+            "name": "快看2影视",
+            "type": 3,
+            "api": "csp_Kuaikan",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "YQK_spider",
+            "name": "一起看影视",
+            "api": "csp_YQKAPP",
+            "type": 3,
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": "https://api-aws.11ty.top"
+        },
+        {
+            "key": "明明",
+            "name": "明明影视",
+            "type": 3,
+            "api": "csp_AppMr",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 1
+        },
 
 {"key": "厂长影视","name": "厂长影视","type": 3,"api": "./lib/drpy2.min.js","ext" : "./js/厂长资源.js"},
 
