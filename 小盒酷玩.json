@@ -177,9 +177,9 @@
 
 {"key":"相声小品","name":"相声小品","type":"3","api":"csp_Bili","playerType":"1","ext":"./json/哔哩相声.json"},
 
-{"key":"戏曲","name":"戏曲合集","type":"3","api":"csp_Bili","playerType":"1","ext":"./json/哔哩哔哩戏曲.json"},
+{"key":"戏曲","name":"戏曲合集","type":"3","api":"csp_Bili","playerType":"1","ext":"./json/哔哩哔哩戏曲.json","jar": "./jar/xyq.jar"},
 
-{"key":"演唱会","name":"哔哩音乐","type":"3","api":"csp_Bili","playerType":"1","jar": "./jar/xyq.jar","ext":"./json/哔哩哔哩音乐.json"},
+{"key":"演唱会","name":"哔哩音乐","type":"3","api":"csp_Bili","playerType":"1","ext":"./json/哔哩哔哩音乐.json","jar": "./jar/xhkw1.jar"},
 
 {"key":"biliych","name":"演唱会","type":"3","api":"csp_Bili","playerType":"1","ext":"./json/biliych.json"},
 
