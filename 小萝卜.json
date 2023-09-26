@@ -47,7 +47,7 @@
 		      	"filterable": 1	
        },
        {
-            "key": "探探",
+            "key": "csp_YTVIP",
             "name": "影探App",
             "type": 3,
             "playerType": "1",
@@ -58,10 +58,10 @@
             "ext": "vip.lyyytv.cn"
         },
         {
-            "key": "Kuaikan",
+            "key": "csp_Kuaikan",
             "name": "快看2影视",
             "type": 3,
-            "api": "csp_Kuaikan",
+            "jar": "./jar/xyq.jar",
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1,
@@ -79,14 +79,14 @@
             "ext": "https://api-aws.11ty.top"
         },
         {
-            "key": "明明",
+            "key": "csp_AppMr",
             "name": "明明影视",
             "type": 3,
-            "api": "csp_AppMr",
+            "jar": "./jar/xyq.jar",
             "searchable": 1,
             "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1
+            "filterable": 1
+            
         },
 
 {"key": "厂长影视","name": "厂长影视","type": 3,"api": "./lib/drpy2.min.js","ext" : "./js/厂长资源.js"},
