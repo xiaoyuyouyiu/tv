@@ -9,15 +9,7 @@
 
 "sites":[
 {"key": "豆瓣主页","name": "豆瓣主页","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
- {
-			"key": "csp_77",
-			"name": "酷云直连",
-			"type": 3,
-			"api": "csp_Kunyu77",
-			"searchable": 1,
-			"quickSearch": 1,
-			"changeable": 1
-    	},
+ 
 {
             "key": "csp_FanYY",
             "name": "玩偶云盘",
