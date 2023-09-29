@@ -60,7 +60,7 @@
 
 {"key": "厂长影视","name": "厂长影视","type": 3,"api": "./lib/drpy2.min.js","ext" : "./js/厂长资源.js"},
 
-{"key":"玩偶哥哥","name":"玩偶本地","type":"3","api":"csp_XBPQ","playerType":"1","ext":"./json/玩偶哥哥.json"},
+{"key":"玩偶哥哥","name":"玩偶本地","type":"3","api":"csp_XBPQ","playerType":"1","ext":"./json/wogg.json"},
 
 {"key": "低端影视","name": "低端影视","type": 3,"api": "./lib/drpy2.min.js","ext" : "./js/ddys.js"},
 
