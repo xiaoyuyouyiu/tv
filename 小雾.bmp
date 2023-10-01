@@ -111,11 +111,13 @@
             "filterable": 1,
             "ext": "http://cms.jialiangos.com/api.php/app/"
         },
-        {"key":"酷云七七","name":"酷云七七","type": 3,"api":"./lib/drpy2.min.js","ext":"./js/酷云77.js"},
+{"key":"酷云七七","name":"酷云七七","type": 3,"api":"./lib/drpy2.min.js","ext":"./js/酷云77.js"},
 
 {"key": "厂长影视","name": "厂长影视","type": 3,"api": "./lib/drpy2.min.js","ext" : "./js/厂长资源.js"},
 
 {"key":"玩偶哥哥","name":"玩偶本地","type":"3","api":"csp_XBPQ","playerType":"1","ext":"./json/wogg.json"},
+  
+{"key":"农民影视","name":"农民影视","type":"3","api":"csp_XBPQ","playerType":"1","ext":"./json/农民影视.json"},
 
 {"key": "低端影视","name": "低端影视","type": 3,"api": "./lib/drpy2.min.js","ext" : "./js/ddys.js"},
 
@@ -127,7 +129,7 @@
 
 {"key": "厂长资源","name": "厂长影视","type": 3,"api": "./lib/drpy2.min.js","ext" : "./js/厂长资源.js"},
 
-{"key": "农民影视","name": "农民影视","type": 3,"api": "./lib/drpy2.min.js","ext" : "./js/农民影视.js"},
+{"key": "农民影视","name": "农民资源","type": 3,"api": "./lib/drpy2.min.js","ext" : "./js/农民影视.js"},
 
 {"key":"乐猪TV","name":"乐猪影视","type":"3","api":"csp_XBPQ","playerType":"1","ext":"./json/乐猪TV.json"},
 
@@ -138,8 +140,6 @@
 {"key": "Auete","name": "Auete影视","type": 3,"api": "./lib/drpy2.min.js","ext" : "./js/Auete.js"},
 
 {"key": "新视觉","name": "新视觉影视","type": 3,"api": "./lib/drpy2.min.js","ext" : "./js/新视觉影视.js"},
-
-{"key": "双十电影","name": "双十影视","type": 3,"api": "./lib/drpy2.min.js","ext" : "./js/双十电影.js"},
   
 {"key": "VOFLIX","name": "VOFLIX影视","type": 3,"api": "./lib/drpy2.min.js","ext" : "./js/VOFLIX.js"},
 
