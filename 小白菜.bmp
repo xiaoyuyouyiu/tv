@@ -91,7 +91,14 @@
 			"ext": "https://cz01.cc/",
 			"filterable": 1
 		},
-
+{
+            "key": "追忆",
+            "name": "追忆TV",
+            "type": 3,
+            "api": "http://xn--yet226clhctt4b.fun:66/lib/drpy2.min.js",             "searchable": 1,                         "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://xn--yet226clhctt4b.fun:66/js/追忆.js"
+        }, 
         {
             "key": "Kuaikan",
             "name": "快看2影视",
