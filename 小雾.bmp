@@ -142,6 +142,74 @@
 {"key": "VOFLIX","name": "VOFLIX影视","type": 3,"api": "./lib/drpy2.min.js","ext" : "./js/VOFLIX.js"},
 
 {"key": "555电影","name": "555影视","type": 3,"api": "./lib/drpy2.min.js","ext" : "./js/555电影[V2].js"},
+{"key":"纸条","name": "纸条搜索","type": 3,"api": "csp_Paper","searchable": 1,"filterable": 1,"changeable": 0,"jar":"./lib/ali.jar"},
+        {
+            "key": "七夜",
+            "name": "七夜云盘",
+            "type": 3,
+            "api": "csp_Dovx",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/cainisi/token.txt+4k|fhd|auto"
+        },
+        {
+            "key": "PanSearch",
+            "name": "Search云盘",
+            "type": 3,
+            "api": "csp_PanSearch",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/cainisi/token.txt+4k|fhd|auto"
+        },
+        {
+            "key": "csp_search_Yisou",
+            "name": "易搜云盘",
+            "type": 3,
+            "api": "csp_YiSo",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/cainisi/token.txt+4k|fhd|auto"
+        },
+        {
+            "key": "csp_search_Zhaozy",
+            "name": "找资源云盘",
+            "type": 3,
+            "api": "csp_Zhaozy",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$fanfan$$$qqq111"
+        },
+        {
+            "key": "csp_search_Upyunso",
+            "name": "Up搜云盘",
+            "type": 3,
+            "api": "csp_UpYun",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/cainisi/token.txt+4k|fhd|auto"
+        },
+        {
+            "key": "csp_search_Alips",
+            "name": "盘搜云盘",
+            "type": 3,
+            "api": "csp_PanSou",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0,
+            "ext": "http://127.0.0.1:9978/file/cainisi/token.txt+4k|fhd|auto"
+        },
+
 
 {"key": "007电影","name": "007影视","type": 3,"api": "./lib/drpy2.min.js","ext" : "./js/007影视.js"},
 
@@ -233,22 +301,40 @@
 
 {"key": "种子音乐","name": "音乐合集","type": 3,"api": "./lib/drpy2.min.js","ext" : "./js/种子音乐.js"},
 
-{"key": "DJ音乐","name": "DJ音乐","type": 3,"api": "./lib/drpy2.min.js","ext" : "./js/DJ音乐.js"}
+{"key": "Jango音乐","name": "Jango音乐","type": 3,"api": "./lib/drpy2.min.js","ext" : "./js/JangoIndex.js"},
+
+{"key": " mv263","name": "MV263","type": 3,"api": "./lib/drpy2.min.js","ext" : "./js/MV263.js"},
+
+{"key": " 啦啦dj","name": "啦啦dj","type": 3,"api": "./lib/drpy2.min.js","ext" : "./js/啦啦DJ.js"},
+
+{"key": "DJ音乐","name": "DJ音乐","type": 3,"api": "./lib/drpy2.min.js","ext" : "./js/DJ音乐.js"},
+
+{"key": "JustLive","name": "Just直播","type": 3,"api": "./lib/drpy2.min.js","ext" : "./js/JustLive.js"},
+
+{"key": "310直播","name": "310看球","type": 3,"api": "./lib/drpy2.min.js","ext" : "./js/310直播.js"},
+
+{"key": "JRKAN直播","name": "JRKAN看球","type": 3,"api": "./lib/drpy2.min.js","ext" : "./js/JRKAN直播.js"},
 
 ],
 
 
 "parses": [ 
+{"name": "解析聚合","type": 3,"url": "Web"},
 
-{"name": "解析聚合","type": 3,"url": "Demo"},
+{"name": "并发","type": 3,"url": "Demo"},
+{
+            "name": "玉米",
+            "type": 1,
+            "url": "http://61.147.93.21:8090/index.php?url="
+        },
+        {"name":"战狼","type":0,"url":"https://jx.zhanlangbu.com/?url="},
 
-{"name": "web聚合","type": 3,"url": "Web"},
 {
             "name": "777",
             "type": 0,
             "url": "https://jx.777jiexi.com/player/?url="
         },
-        {"name":"战狼","type":0,"url":"https://jx.zhanlangbu.com/?url="},
+        
 {"name":"ok","type":0,"url":"https://okjx.cc/?url="},
 {"name":"bozrc","type":0,"url":"https://jx.bozrc.com:4433/player/?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","leshi","LS","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":""}}},
 {"name":"不累","type":0,"url":"https://blbfq.f3322.net/player/analysis.php?v=","ext":{"flag":["qiyi","qq","letv","sohu","youku","mgtv","bilibili","wasu","xigua","1905"]}},
