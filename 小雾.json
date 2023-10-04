@@ -9,15 +9,7 @@
 
 "sites":[
 
-   {
-            "key": "豆豆",
-			"name": "豆瓣主页",
-			"type": 3,
-			"api": "csp_DouDou",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0
-        },
+   
 
 {"key": "豆瓣主页","name": "豆瓣主页","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/douban.js"},
  
