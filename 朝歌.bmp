@@ -229,7 +229,7 @@
 
 {"key": "DJ音乐","name": "DJ音乐","type": 3,"api": "./lib/drpy2.min.js","ext" : "./js/DJ音乐.js"},
 
-{"key": "310直播","name": "310看球","type": 3,"api": "./lib/drpy2.min.js","ext" : "./js/310直播.js"}
+{"key": "310直播","name": "310看球","type": 3,"api": "./lib/drpy2.min.js","ext" : "./js/310直播.js"},
 
 {"key": "直播","jrkan直播": "DJ音乐","type": 3,"api": "./lib/drpy2.min.js","ext" : "./js/JRKAN直播.js"}
 
