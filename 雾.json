@@ -84,7 +84,10 @@
 		      	"ext": "https://cz0101.com/",
 		      	"filterable": 1	
        },
-{:"酷云七七","name":"酷云七七","type": 3,"api":"./lib/drpy2.min.js","ext":"./js/酷云77.js"},
+
+	
+
+{"key":"酷云七七","name":"酷云七七","type": 3,"api":"./lib/drpy2.min.js","ext":"./js/酷云77.js"},
 
 {"key":"玩偶哥哥","name":"玩偶本地","type":"3","api":"csp_XBPQ","playerType":"1","ext":"./json/wogg.json"},
   
@@ -96,7 +99,7 @@
 
 {"key": "两个BT","name": "BT影视","type": 3,"api": "./lib/drpy2.min.js","ext" : "./js/两个BT.js"},
 
-{"key": "快看影视","name": "快看影视","type": 3,"api": "./lib/drpy2.min.js","ext" : "./js/快看.js
+{"key": "快看影视","name": "快看影视","type": 3,"api": "./lib/drpy2.min.js","ext" : "./js/快看.js},
 
 {"key":"乐猪TV","name":"乐猪影视","type":"3","api":"csp_XBPQ","playerType":"1","ext":"./json/乐猪TV.json"},
 
