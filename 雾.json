@@ -73,32 +73,10 @@
 		      	"playerType": 2,
 		      	"searchable": 1,
 		      	"quickSearch": 1,
-		      	"ext": "https://cz01.cc/",
+		      	"ext": "https://cz0101.com/",
 		      	"filterable": 1	
        },
-       {
-            "key": "追忆",
-            "name": "追忆TV",
-            "type": 3,
-            "api": "http://xn--yet226clhctt4b.fun:66/lib/drpy2.min.js",             "searchable": 1,                         "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://xn--yet226clhctt4b.fun:66/js/追忆.js"
-        },
-       
-        {
-            "key": "csp_AppYsV2_大鹏",
-            "name": "大鹏TV",
-            "type": 3,
-            "api": "csp_AppYsV2",
-            "playerType": 2,
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "ext": "http://cms.jialiangos.com/api.php/app/"
-        },
-{"key":"酷云七七","name":"酷云七七","type": 3,"api":"./lib/drpy2.min.js","ext":"./js/酷云77.js"},
-
-{"key": "厂长影视","name": "厂长影视","type": 3,"api": "./lib/drpy2.min.js","ext" : "./js/厂长资源.js"},
+{:"酷云七七","name":"酷云七七","type": 3,"api":"./lib/drpy2.min.js","ext":"./js/酷云77.js"},
 
 {"key":"玩偶哥哥","name":"玩偶本地","type":"3","api":"csp_XBPQ","playerType":"1","ext":"./json/wogg.json"},
   
